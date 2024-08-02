@@ -1,20 +1,13 @@
 <div align=center>
  
-# 🚀 ZxCDDoS: Release v1.5 - Free DDoS Panel 🚀
+# 🚀 Villain : Release v1.5 - Free DDoS Panel 🚀
 
-# Store: https://condi.billgang.store/
-
-<p>
- <img src="https://img.shields.io/github/stars/hoaan1995/ZxCDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
- <img src="https://img.shields.io/github/forks/hoaan1995/ZxCDDoS?color=%239999FF&style=for-the-badge"/> &nbsp;
- <img src="https://img.shields.io/github/license/hoaan1995/ZxCDDoS?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
- 
-</p>
+# Page: [CYBER VILLAIN](https://www.facebook.com/cybervillaincv)
 
 > Terminal only accepts ANSI color.<br>
-> Username: admin<br>
-> Password: admin<br>
-<p align="center">  <a href="https://t.me/learneverything9"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
+> Username: cyber<br>
+> Password: villain<br>
+<p align="center">  <a href=http://t.me/cybervillaincv"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## Language</br>
 
@@ -63,20 +56,20 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/hoaan1995/ZxCDDoS/
-cd ZxCDDoS/
+git clone https://github.com/CYB3R-VILL4IN/CYBER-VILLAIN
+cd CYBER-VILLAIN
 npm i requests https-proxy-agent crypto-random-string events fs net cloudscraper request hcaptcha-solver randomstring cluster cloudflare-bypasser http http2 crypto tls
 pip3 install -r requirements.txt
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 apt-get install ./google-chrome-stable_current_amd64.deb
 ulimit -n 999999
 chmod 777 *
-python3 c2.py
+python3 cvd_attack.py
 ```
 
 # Credits
 ```sh
-zxcr9999 (Reworked CnC and added some methods .-.)
+cyber villain (Reworked CnC and added some methods .-.)
 SkyWtkhIsBack (Example Panel and L7 methods <3)
 Empfaked (Layer 7 methods <3)
 HyukIsBack (Layer 7 methods <3)
@@ -96,6 +89,6 @@ remember: you are responsible for the attacks since this tool was created for ed
 
 # CONTACT:
 ```sh
-Telegram: @zxcr9999
-Discord: zxcr9999#1770
+Telegram: cybervillaincv
+
 ```
